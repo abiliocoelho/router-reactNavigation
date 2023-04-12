@@ -40,6 +40,6 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   title:{
-    fontSize: 24
+    fontSize: 26
   }
 })
